@@ -1,0 +1,4 @@
+127.0.0.1 - - [21/Mar/2019:00:20:06 +0300] "GET /favicon/favicon-32.png HTTP/1.1" 200 1306 "http://modimio.loc/icms/catalog/catalog_edit?id=4" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36"
+127.0.0.1 - - [07/Feb/2024:12:04:30 +0300] "GET /web/ HTTP/1.1" 200 7818 "http://modimio/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0"
+127.0.0.1 - - [07/Feb/2024:12:04:30 +0300] "GET /web/index.php?r=debug%2Fdefault%2Ftoolbar&tag=65c3479e85ca3 HTTP/1.1" 200 3275 "http://modimio/web/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0"
+2001:db8:85a3:8d3:1319:8a2e:370:7348 - – alex [10/Oct/2019:15:32:22 -0700] "GET /apache_pb.gif HTTP/1.0" 200 5396 "http://www.mysite/myserver.html" "Mozilla/4.08 [en] (Win98; I ;Nav)"
